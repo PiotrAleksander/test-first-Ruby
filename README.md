@@ -1,2 +1,2 @@
 # test-first-Ruby
-solucje do testów
+solucje do testów. RPN przeklejony.
