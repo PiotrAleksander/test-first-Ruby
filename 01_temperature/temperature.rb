@@ -1,8 +1,8 @@
-    def ftoc(f)
-    (f - 32) * (5.0 / 9)
+    def ftoc(fahr)
+    (fahr - 32) * (5.0 / 9)
   end
   
-  def ctof(c)
-    32 + ((9.0 / 5) * c)
+  def ctof(cels)
+    32 + ((9.0 / 5) * cels)
   end
 
